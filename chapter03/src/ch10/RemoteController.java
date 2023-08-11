@@ -21,6 +21,6 @@ public interface RemoteController {
 	// 그러므로 public abstract 생략 가능 (컴파일러가 처리해줌)
 	void turnOff();
 	// 같은 이유로 public static final 생략
-	int PHONENUMBER = 1235;
+	int PHONE_NUMBER = 12345678;
 
 } // end of interface
